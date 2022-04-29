@@ -559,7 +559,7 @@ footer {
 	}
 }
 
-@media (max-width: 769px){
+@media all (max-width: 769px){
 
 	section{
 		padding: 20px 0;
